@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "brand": "Apple",
+      "model": "Apple Watch Series 9",
+      "price": 399.99,
+      "features": ["Always-On Retina Display", "Blood Oxygen Monitoring", "ECG App", "GPS", "Water Resistant"],
+      "battery_life": "18 hours",
+      "compatibility": ["iOS"]
+    },
+    {
+      "id": 2,
+      "brand": "Samsung",
+      "model": "Galaxy Watch 6",
+      "price": 349.99,
+      "features": ["Super AMOLED Display", "Heart Rate Monitoring", "Sleep Tracking", "GPS", "LTE Option"],
+      "battery_life": "40 hours",
+      "compatibility": ["Android"]
+    },
+    {
+      "id": 3,
+      "brand": "Garmin",
+      "model": "Garmin Venu 2",
+      "price": 399.99,
+      "features": ["AMOLED Display", "Pulse Oximeter", "GPS", "Music Storage", "Body Battery Energy Monitoring"],
+      "battery_life": "11 days",
+      "compatibility": ["iOS", "Android"]
+    },
+    {
+      "id": 4,
+      "brand": "Fitbit",
+      "model": "Fitbit Sense 2",
+      "price": 299.95,
+      "features": ["EDA Stress Tracking", "Heart Rate Variability", "Sleep Tracking", "GPS", "Alexa Built-in"],
+      "battery_life": "6 days",
+      "compatibility": ["iOS", "Android"]
+    },
+    {
+      "id": 5,
+      "brand": "Amazfit",
+      "model": "Amazfit GTR 4",
+      "price": 199.99,
+      "features": ["1.43-inch AMOLED Display", "Dual-Band GPS", "BioTracker 4.0 PPG", "Bluetooth Calling", "Water Resistant"],
+      "battery_life": "14 days",
+      "compatibility": ["iOS", "Android"]
+    }
+  ]
+  
